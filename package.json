@@ -1,0 +1,12 @@
+{
+  "name": "sleeper-code",
+  "version": "1.0.0",
+  "description": "Sleep your process",
+  "license": "MIT",
+  "repository": "RaudaJairo/sleeper-code",
+  "main": "index.js",
+  "keywords": [
+	"sleep",
+	"stop"
+  ]
+}
